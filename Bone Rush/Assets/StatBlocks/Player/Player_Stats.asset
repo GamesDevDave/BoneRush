@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 913483f8983c7084fa32815f25b20ef3, type: 3}
+  m_Name: Player_Stats
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+  maxStamina: 100
+  normalDamage: 3
+  heavyDamage: 6
+  xpLevelModifier: 2
+  staminaCostToShield: 30
+  staminaPickUpAmount: 50
+  staminaRegenRate: 5
+  dashDistance: 25
+  staminaCostToDash: 30
+  shieldStunDuration: 3
+  shieldDamage: 0.5
+  jumpHeight: 40
+  staminaCostToJump: 20
+  speed: 10
+  shieldReduction: 0.6
+  projectileSpeed: 10

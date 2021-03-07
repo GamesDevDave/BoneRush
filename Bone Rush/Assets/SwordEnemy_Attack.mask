@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SwordEnemy_Attack
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_L
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_L/Walk1_Alert:HipPart1_L
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_L/Walk1_Alert:HipPart1_L/Walk1_Alert:HipPart2_L
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_L/Walk1_Alert:HipPart1_L/Walk1_Alert:HipPart2_L/Walk1_Alert:Knee_L
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_L/Walk1_Alert:HipPart1_L/Walk1_Alert:HipPart2_L/Walk1_Alert:Knee_L/Walk1_Alert:Ankle_L
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_L/Walk1_Alert:HipPart1_L/Walk1_Alert:HipPart2_L/Walk1_Alert:Knee_L/Walk1_Alert:Ankle_L/Walk1_Alert:Toes_L
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_R/Walk1_Alert:HipPart1_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_R/Walk1_Alert:HipPart1_R/Walk1_Alert:HipPart2_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_R/Walk1_Alert:HipPart1_R/Walk1_Alert:HipPart2_R/Walk1_Alert:Knee_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_R/Walk1_Alert:HipPart1_R/Walk1_Alert:HipPart2_R/Walk1_Alert:Knee_R/Walk1_Alert:Ankle_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:Hip_R/Walk1_Alert:HipPart1_R/Walk1_Alert:HipPart2_R/Walk1_Alert:Knee_R/Walk1_Alert:Ankle_R/Walk1_Alert:Toes_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Neck_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Neck_M/Walk1_Alert:NeckPart1_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Neck_M/Walk1_Alert:NeckPart1_M/Walk1_Alert:NeckPart2_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Neck_M/Walk1_Alert:NeckPart1_M/Walk1_Alert:NeckPart2_M/Walk1_Alert:Head_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Neck_M/Walk1_Alert:NeckPart1_M/Walk1_Alert:NeckPart2_M/Walk1_Alert:Head_M/Walk1_Alert:HeadEnd_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Neck_M/Walk1_Alert:NeckPart1_M/Walk1_Alert:NeckPart2_M/Walk1_Alert:Head_M/Walk1_Alert:Jaw_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Neck_M/Walk1_Alert:NeckPart1_M/Walk1_Alert:NeckPart2_M/Walk1_Alert:Head_M/Walk1_Alert:Jaw_M/Walk1_Alert:JawEnd_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L/Walk1_Alert:ShoulderPart1_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L/Walk1_Alert:ShoulderPart1_L/Walk1_Alert:ShoulderPart2_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L/Walk1_Alert:ShoulderPart1_L/Walk1_Alert:ShoulderPart2_L/Walk1_Alert:Elbow_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L/Walk1_Alert:ShoulderPart1_L/Walk1_Alert:ShoulderPart2_L/Walk1_Alert:Elbow_L/Walk1_Alert:ElbowPart1_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L/Walk1_Alert:ShoulderPart1_L/Walk1_Alert:ShoulderPart2_L/Walk1_Alert:Elbow_L/Walk1_Alert:ElbowPart1_L/Walk1_Alert:ElbowPart2_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L/Walk1_Alert:ShoulderPart1_L/Walk1_Alert:ShoulderPart2_L/Walk1_Alert:Elbow_L/Walk1_Alert:ElbowPart1_L/Walk1_Alert:ElbowPart2_L/Walk1_Alert:Wrist_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L/Walk1_Alert:ShoulderPart1_L/Walk1_Alert:ShoulderPart2_L/Walk1_Alert:Elbow_L/Walk1_Alert:ElbowPart1_L/Walk1_Alert:ElbowPart2_L/Walk1_Alert:Wrist_L/Walk1_Alert:MiddleFinger1_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L/Walk1_Alert:ShoulderPart1_L/Walk1_Alert:ShoulderPart2_L/Walk1_Alert:Elbow_L/Walk1_Alert:ElbowPart1_L/Walk1_Alert:ElbowPart2_L/Walk1_Alert:Wrist_L/Walk1_Alert:MiddleFinger1_L/Walk1_Alert:MiddleFinger2_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L/Walk1_Alert:ShoulderPart1_L/Walk1_Alert:ShoulderPart2_L/Walk1_Alert:Elbow_L/Walk1_Alert:ElbowPart1_L/Walk1_Alert:ElbowPart2_L/Walk1_Alert:Wrist_L/Walk1_Alert:MiddleFinger1_L/Walk1_Alert:MiddleFinger2_L/Walk1_Alert:MiddleFinger3_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L/Walk1_Alert:ShoulderPart1_L/Walk1_Alert:ShoulderPart2_L/Walk1_Alert:Elbow_L/Walk1_Alert:ElbowPart1_L/Walk1_Alert:ElbowPart2_L/Walk1_Alert:Wrist_L/Walk1_Alert:ThumbFinger1_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_L/Walk1_Alert:Shoulder_L/Walk1_Alert:ShoulderPart1_L/Walk1_Alert:ShoulderPart2_L/Walk1_Alert:Elbow_L/Walk1_Alert:ElbowPart1_L/Walk1_Alert:ElbowPart2_L/Walk1_Alert:Wrist_L/Walk1_Alert:ThumbFinger1_L/Walk1_Alert:ThumbFinger2_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R/Walk1_Alert:ShoulderPart1_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R/Walk1_Alert:ShoulderPart1_R/Walk1_Alert:ShoulderPart2_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R/Walk1_Alert:ShoulderPart1_R/Walk1_Alert:ShoulderPart2_R/Walk1_Alert:Elbow_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R/Walk1_Alert:ShoulderPart1_R/Walk1_Alert:ShoulderPart2_R/Walk1_Alert:Elbow_R/Walk1_Alert:ElbowPart1_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R/Walk1_Alert:ShoulderPart1_R/Walk1_Alert:ShoulderPart2_R/Walk1_Alert:Elbow_R/Walk1_Alert:ElbowPart1_R/Walk1_Alert:ElbowPart2_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R/Walk1_Alert:ShoulderPart1_R/Walk1_Alert:ShoulderPart2_R/Walk1_Alert:Elbow_R/Walk1_Alert:ElbowPart1_R/Walk1_Alert:ElbowPart2_R/Walk1_Alert:Wrist_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R/Walk1_Alert:ShoulderPart1_R/Walk1_Alert:ShoulderPart2_R/Walk1_Alert:Elbow_R/Walk1_Alert:ElbowPart1_R/Walk1_Alert:ElbowPart2_R/Walk1_Alert:Wrist_R/Walk1_Alert:MiddleFinger1_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R/Walk1_Alert:ShoulderPart1_R/Walk1_Alert:ShoulderPart2_R/Walk1_Alert:Elbow_R/Walk1_Alert:ElbowPart1_R/Walk1_Alert:ElbowPart2_R/Walk1_Alert:Wrist_R/Walk1_Alert:MiddleFinger1_R/Walk1_Alert:MiddleFinger2_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R/Walk1_Alert:ShoulderPart1_R/Walk1_Alert:ShoulderPart2_R/Walk1_Alert:Elbow_R/Walk1_Alert:ElbowPart1_R/Walk1_Alert:ElbowPart2_R/Walk1_Alert:Wrist_R/Walk1_Alert:MiddleFinger1_R/Walk1_Alert:MiddleFinger2_R/Walk1_Alert:MiddleFinger3_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R/Walk1_Alert:ShoulderPart1_R/Walk1_Alert:ShoulderPart2_R/Walk1_Alert:Elbow_R/Walk1_Alert:ElbowPart1_R/Walk1_Alert:ElbowPart2_R/Walk1_Alert:Wrist_R/Walk1_Alert:ThumbFinger1_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:DeformationSystem/Walk1_Alert:Root_M/Walk1_Alert:RootPart1_M/Walk1_Alert:RootPart2_M/Walk1_Alert:Spine1_M/Walk1_Alert:Spine1Part1_M/Walk1_Alert:Spine1Part2_M/Walk1_Alert:Chest_M/Walk1_Alert:Scapula_R/Walk1_Alert:Shoulder_R/Walk1_Alert:ShoulderPart1_R/Walk1_Alert:ShoulderPart2_R/Walk1_Alert:Elbow_R/Walk1_Alert:ElbowPart1_R/Walk1_Alert:ElbowPart2_R/Walk1_Alert:Wrist_R/Walk1_Alert:ThumbFinger1_R/Walk1_Alert:ThumbFinger2_R
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKIKSystem
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKIKSystem/Walk1_Alert:FKIKParentConstraintSpine_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKIKSystem/Walk1_Alert:FKIKParentConstraintSpine_M/Walk1_Alert:FKIKSpine_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M/Walk1_Alert:FKExtraRoot_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M/Walk1_Alert:FKExtraRoot_M/Walk1_Alert:FKRoot_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M/Walk1_Alert:FKExtraRoot_M/Walk1_Alert:FKRoot_M/Walk1_Alert:HipSwingerOffset_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M/Walk1_Alert:FKExtraRoot_M/Walk1_Alert:FKRoot_M/Walk1_Alert:HipSwingerOffset_M/Walk1_Alert:HipSwinger_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M/Walk1_Alert:FKExtraRoot_M/Walk1_Alert:FKRoot_M/Walk1_Alert:HipSwingerStabilizerTarget
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M/Walk1_Alert:FKExtraRoot_M/Walk1_Alert:FKRoot_M/Walk1_Alert:HipSwingReverse
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M/Walk1_Alert:FKExtraRoot_M/Walk1_Alert:FKRoot_M/Walk1_Alert:HipSwingReverse/Walk1_Alert:HipSwingReversePart1
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M/Walk1_Alert:FKExtraRoot_M/Walk1_Alert:FKRoot_M/Walk1_Alert:HipSwingReverse/Walk1_Alert:HipSwingReversePart1/Walk1_Alert:HipSwingReversePart2
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M/Walk1_Alert:FKExtraRoot_M/Walk1_Alert:FKRoot_M/Walk1_Alert:HipSwingReverse/Walk1_Alert:HipSwingReversePart1/Walk1_Alert:HipSwingReversePart2/Walk1_Alert:HipSwingReverseRoot
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M/Walk1_Alert:FKExtraRoot_M/Walk1_Alert:FKRoot_M/Walk1_Alert:HipSwingReverse/Walk1_Alert:HipSwingReverseXPart2
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKOffsetRoot_M/Walk1_Alert:FKExtraRoot_M/Walk1_Alert:FKXRoot_M
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_L/Walk1_Alert:FKOffsetShoulder_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_L/Walk1_Alert:FKOffsetShoulder_L/Walk1_Alert:FKExtraShoulder_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_L/Walk1_Alert:FKOffsetShoulder_L/Walk1_Alert:FKExtraShoulder_L/Walk1_Alert:FKShoulder_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_L/Walk1_Alert:FKOffsetShoulder_L/Walk1_Alert:FKExtraShoulder_L/Walk1_Alert:FKShoulder_L/Walk1_Alert:FKXShoulder_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_L/Walk1_Alert:FKOffsetShoulder_L/Walk1_Alert:FKExtraShoulder_L/Walk1_Alert:FKShoulder_L/Walk1_Alert:FKXShoulder_L/Walk1_Alert:FKOffsetElbow_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_L/Walk1_Alert:FKOffsetShoulder_L/Walk1_Alert:FKExtraShoulder_L/Walk1_Alert:FKShoulder_L/Walk1_Alert:FKXShoulder_L/Walk1_Alert:FKOffsetElbow_L/Walk1_Alert:FKExtraElbow_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_L/Walk1_Alert:FKOffsetShoulder_L/Walk1_Alert:FKExtraShoulder_L/Walk1_Alert:FKShoulder_L/Walk1_Alert:FKXShoulder_L/Walk1_Alert:FKOffsetElbow_L/Walk1_Alert:FKExtraElbow_L/Walk1_Alert:FKElbow_L
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_L/Walk1_Alert:FKOffsetShoulder_L/Walk1_Alert:FKExtraShoulder_L/Walk1_Alert:FKShoulder_L/Walk1_Alert:FKXShoulder_L/Walk1_Alert:FKOffsetElbow_L/Walk1_Alert:FKExtraElbow_L/Walk1_Alert:FKElbow_L/Walk1_Alert:locator1
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_L/Walk1_Alert:FKOffsetShoulder_L/Walk1_Alert:FKExtraShoulder_L/Walk1_Alert:FKShoulder_L/Walk1_Alert:FKXShoulder_L/Walk1_Alert:FKOffsetElbow_L/Walk1_Alert:FKExtraElbow_L/Walk1_Alert:FKElbow_L/Walk1_Alert:locator1/rownd
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R/Walk1_Alert:FKShoulder_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R/Walk1_Alert:FKShoulder_R/Walk1_Alert:FKXShoulder_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R/Walk1_Alert:FKShoulder_R/Walk1_Alert:FKXShoulder_R/Walk1_Alert:FKOffsetElbow_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R/Walk1_Alert:FKShoulder_R/Walk1_Alert:FKXShoulder_R/Walk1_Alert:FKOffsetElbow_R/Walk1_Alert:FKExtraElbow_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R/Walk1_Alert:FKShoulder_R/Walk1_Alert:FKXShoulder_R/Walk1_Alert:FKOffsetElbow_R/Walk1_Alert:FKExtraElbow_R/Walk1_Alert:FKElbow_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R/Walk1_Alert:FKShoulder_R/Walk1_Alert:FKXShoulder_R/Walk1_Alert:FKOffsetElbow_R/Walk1_Alert:FKExtraElbow_R/Walk1_Alert:FKElbow_R/Walk1_Alert:FKXElbow_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R/Walk1_Alert:FKShoulder_R/Walk1_Alert:FKXShoulder_R/Walk1_Alert:FKOffsetElbow_R/Walk1_Alert:FKExtraElbow_R/Walk1_Alert:FKElbow_R/Walk1_Alert:FKXElbow_R/Walk1_Alert:FKOffsetWrist_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R/Walk1_Alert:FKShoulder_R/Walk1_Alert:FKXShoulder_R/Walk1_Alert:FKOffsetElbow_R/Walk1_Alert:FKExtraElbow_R/Walk1_Alert:FKElbow_R/Walk1_Alert:FKXElbow_R/Walk1_Alert:FKOffsetWrist_R/Walk1_Alert:FKExtraWrist_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R/Walk1_Alert:FKShoulder_R/Walk1_Alert:FKXShoulder_R/Walk1_Alert:FKOffsetElbow_R/Walk1_Alert:FKExtraElbow_R/Walk1_Alert:FKElbow_R/Walk1_Alert:FKXElbow_R/Walk1_Alert:FKOffsetWrist_R/Walk1_Alert:FKExtraWrist_R/Walk1_Alert:FKWrist_R
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R/Walk1_Alert:FKShoulder_R/Walk1_Alert:FKXShoulder_R/Walk1_Alert:FKOffsetElbow_R/Walk1_Alert:FKExtraElbow_R/Walk1_Alert:FKElbow_R/Walk1_Alert:FKXElbow_R/Walk1_Alert:FKOffsetWrist_R/Walk1_Alert:FKExtraWrist_R/Walk1_Alert:FKWrist_R/locator1
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:FKSystem/Walk1_Alert:FKParentConstraintToScapula_R/Walk1_Alert:FKOffsetShoulder_R/Walk1_Alert:FKExtraShoulder_R/Walk1_Alert:FKShoulder_R/Walk1_Alert:FKXShoulder_R/Walk1_Alert:FKOffsetElbow_R/Walk1_Alert:FKExtraElbow_R/Walk1_Alert:FKElbow_R/Walk1_Alert:FKXElbow_R/Walk1_Alert:FKOffsetWrist_R/Walk1_Alert:FKExtraWrist_R/Walk1_Alert:FKWrist_R/locator1/sward1:pCylinder1
+    m_Weight: 1
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetConstrainedSpine1_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetConstrainedSpine1_M/Walk1_Alert:IKOffsetSpine1_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetConstrainedSpine1_M/Walk1_Alert:IKOffsetSpine1_M/Walk1_Alert:IKExtraSpine1_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetConstrainedSpine1_M/Walk1_Alert:IKOffsetSpine1_M/Walk1_Alert:IKExtraSpine1_M/Walk1_Alert:IKSpine1_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetConstrainedSpine1_M/Walk1_Alert:IKOffsetSpine1_M/Walk1_Alert:IKExtraSpine1_M/Walk1_Alert:IKSpine1_M/Walk1_Alert:IKSpine1LocalOrient1_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetConstrainedSpine1_M/Walk1_Alert:IKOffsetSpine1_M/Walk1_Alert:IKExtraSpine1_M/Walk1_Alert:IKSpine1_M/Walk1_Alert:IKSpine1LocalOrient1_M/Walk1_Alert:IKSpine1LocalOrient2_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetSpine2_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetSpine2_M/Walk1_Alert:IKExtraSpine2_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetSpine2_M/Walk1_Alert:IKExtraSpine2_M/Walk1_Alert:IKSpine2_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetSpine2_M/Walk1_Alert:IKExtraSpine2_M/Walk1_Alert:IKSpine2_M/Walk1_Alert:IKSpine2LocalOrient1_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetSpine2_M/Walk1_Alert:IKExtraSpine2_M/Walk1_Alert:IKSpine2_M/Walk1_Alert:IKSpine2LocalOrient1_M/Walk1_Alert:IKSpine2LocalOrient2_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetSpine3_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetSpine3_M/Walk1_Alert:IKExtraSpine3_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetSpine3_M/Walk1_Alert:IKExtraSpine3_M/Walk1_Alert:IKSpine3_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetSpine3_M/Walk1_Alert:IKExtraSpine3_M/Walk1_Alert:IKSpine3_M/Walk1_Alert:IKSpine3LocalOrient1_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKOffsetSpine3_M/Walk1_Alert:IKExtraSpine3_M/Walk1_Alert:IKSpine3_M/Walk1_Alert:IKSpine3LocalOrient1_M/Walk1_Alert:IKSpine3LocalOrient2_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKHandle/Walk1_Alert:IKScalerRoot_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKJoints
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKJoints/Walk1_Alert:IKParentConstraintRoot_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKJoints/Walk1_Alert:IKParentConstraintRoot_M/Walk1_Alert:IKfake0Spine_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKJoints/Walk1_Alert:IKParentConstraintRoot_M/Walk1_Alert:IKfake0Spine_M/Walk1_Alert:IKAcRootFollowOffset_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKJoints/Walk1_Alert:IKParentConstraintRoot_M/Walk1_Alert:IKfake0Spine_M/Walk1_Alert:IKSpRootFollowOffset_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKJoints/Walk1_Alert:IKParentConstraintRoot_M/Walk1_Alert:IKXOffsetRoot_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:Group/Walk1_Alert:Main/Walk1_Alert:MotionSystem/Walk1_Alert:IKSystem/Walk1_Alert:IKJoints/Walk1_Alert:IKParentConstraintRoot_M/Walk1_Alert:IKXOffsetRoot_M/Walk1_Alert:IKXRoot_M
+    m_Weight: 0
+  - m_Path: Walk1_Alert:skeleton
+    m_Weight: 0
